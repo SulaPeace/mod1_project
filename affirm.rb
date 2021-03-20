@@ -1,5 +1,5 @@
 require 'pry' 
-
+#commit
 class Infogathering
 
   attr_reader :name, :age, :occupation, :mood_category, :feeling, :affirmation_type 
